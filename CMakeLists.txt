@@ -7,4 +7,3 @@ add_subdirectory(benchmark)
 
 add_subdirectory(tests)
 add_subdirectory(SAT)
-add_subdirectory(knapsack)
